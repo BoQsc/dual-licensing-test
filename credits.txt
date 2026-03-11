@@ -12,5 +12,7 @@ Code/Scripts: Licensed under 0BSD (See LICENSE-0BSD-CODE)
 Original Project Assets: Dedicated to the Public Domain under CC0 (See LICENSE-CC0-ASSETS).  
 Overall Project: Free and Open Source under CC0.  
 Original Creator: BoQsc  
+Note: Both licenses allow for use in any project (commercial or otherwise) with no attribution required.
+
 
 
