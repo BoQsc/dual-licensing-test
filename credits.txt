@@ -1,0 +1,7 @@
+Licensing Information:
+
+Code/Scripts: Licensed under 0BSD (See LICENSE-0BSD-CODE)
+
+All other assets (Art, 3D, Audio): Dedicated to the Public Domain under CC0 (See LICENSE-CC0-ASSETS)
+
+Original Creator: BoQsc
