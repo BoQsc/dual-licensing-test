@@ -11,8 +11,8 @@ Year: 2025>
 This project utilizes a split-license approach to provide maximum freedom while ensuring legal safety. 
 Both primary licenses allow for use, modification, and distribution in any project (commercial or otherwise) with absolutely no attribution required.
 
-* Code/Scripts: Licensed under the Unlicense (See LICENSE-UNLICENSE-CODE.txt)
-* Original Project Assets: Dedicated to the Public Domain under CC0 1.0 (See LICENSE-CC0-ASSETS.txt)
+* Code/Scripts: Licensed under the Unlicense (See LICENSE-UNLICENSE)
+* Original Project Assets: Dedicated to the Public Domain under CC0 1.0 (See LICENSE-CC0)
 * Patent Protection: An explicit patent grant and covenant not to sue covers all original contributions (See PATENTS.txt)
 
 --- FILE HEADERS ---
