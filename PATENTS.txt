@@ -10,7 +10,7 @@ use, offer to sell, sell, import, and otherwise transfer the Project.
 2. Scope of License
 This patent license applies only to patent claims licensable by me 
 that are necessarily infringed by my original contributions to this 
-Project, whether those contributions are governed by the 0BSD License, 
+Project, whether those contributions are governed by the Unlicense, 
 the CC0 1.0 Universal Public Domain Dedication, or any other license 
 applied to this repository. 
 
