@@ -15,5 +15,16 @@ Both primary licenses allow for use, modification, and distribution in any proje
 * Original Project Assets: Dedicated to the Public Domain under CC0 1.0 (See LICENSE-CC0-ASSETS.txt)
 * Patent Protection: An explicit patent grant and covenant not to sue covers all original contributions (See PATENTS.txt)
 
+--- FILE HEADERS ---
 
+To ensure the 0BSD warranty disclaimer and patent shields travel with the code, the following headers are included at the top of our source files. If you are contributing code, please include the appropriate header:
 
+For C++ (.cpp, .h) and GLSL (.glsl):
+// Copyright (C) 2025-2026 BoQsc
+// Licensed under the 0BSD License. 
+// See LICENSE-0BSD-CODE.txt and PATENTS.txt in the project root for warranty and patent details.
+
+For GDScript (.gd):
+# Copyright (C) 2025-2026 BoQsc
+# Licensed under the 0BSD License. 
+# See LICENSE-0BSD-CODE.txt and PATENTS.txt in the project root for warranty and patent details.
