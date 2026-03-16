@@ -1,0 +1,16 @@
+Explicit Patent License and Covenant Not to Sue
+
+1. The Grant
+I, BoQsc, hereby grant to any person or entity obtaining a copy of the software, assets, data, and associated documentation in this repository (the "Project") a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Project.
+
+2. Scope of License
+This patent license applies only to patent claims licensable by me that are necessarily infringed by my original contributions to this Project, whether those contributions are governed by the 0BSD License, the CC0 1.0 Universal Public Domain Dedication, or any other license applied to this repository.
+
+3. Defensive Termination (The Shield)
+If any person or entity institutes patent litigation against anyone (including a cross-claim or counterclaim in a lawsuit) alleging that the Project or any contribution within it constitutes direct or contributory patent infringement, then any and all patent licenses granted to that entity by me under this document shall immediately terminate as of the date such litigation is filed.
+
+4. No Warranty
+This grant is provided "AS IS," without warranty of any kind. I make no representations that the Project does not infringe the intellectual property rights of third parties.
+
+Date: 2026-03-16
+Author/Licensor: BoQsc
